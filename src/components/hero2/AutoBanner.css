@@ -1,0 +1,130 @@
+.auto-banner {
+  position: relative;
+  width: 100%;
+  overflow: hidden;
+}
+
+.auto-banner-inner {
+  position: relative;
+  width: 100%;
+  height: 85vh;
+  height: 85dvh;
+}
+
+.auto-slide {
+  position: absolute;
+  inset: 0;
+  background-size: cover;
+  background-position: center;
+  opacity: 0;
+  transform: scale(1.02);
+  transition: opacity 800ms ease, transform 800ms ease;
+}
+
+.auto-slide.active {
+  opacity: 1;
+  transform: scale(1);
+  z-index: 2;
+}
+
+.auto-overlay {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(10,10,40,0.6), rgba(0,40,80,0.35));
+  z-index: 1;
+}
+
+.auto-content {
+  position: relative;
+  z-index: 3;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  padding: 2rem 1rem;
+}
+
+.auto-subtitle {
+  display: inline-block;
+  color: #aee9ff;
+  background: rgba(77,201,255,0.12);
+  padding: 0.5rem 1rem;
+  border-radius: 40px;
+  margin-bottom: 1rem;
+}
+
+.auto-title {
+  color: #fff;
+  font-size: 2.5rem;
+  margin: 0.5rem 0 1rem 0;
+}
+
+.auto-desc {
+  color: rgba(255,255,255,0.9);
+  max-width: 820px;
+  margin: 0 auto 1.25rem auto;
+}
+
+.auto-btn {
+  display: inline-block;
+  background: linear-gradient(135deg,#0066ff,#4dc9ff);
+  color: #fff;
+  padding: 0.9rem 2rem;
+  border-radius: 40px;
+  text-decoration: none;
+  font-weight: 600;
+}
+
+.auto-dots {
+  position: absolute;
+  bottom: 60px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  gap: 10px;
+  z-index: 6;
+}
+
+.auto-dot {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  background: rgba(255,255,255,0.35);
+  border: 2px solid rgba(255,255,255,0.45);
+  cursor: pointer;
+}
+
+.auto-dot.active {
+  background: #4dc9ff;
+  border-color: #4dc9ff;
+  transform: scale(1.2);
+}
+
+.auto-progress {
+  position: absolute;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  height: 4px;
+  background: rgba(255,255,255,0.08);
+  z-index: 6;
+}
+
+.auto-progress-bar {
+  height: 100%;
+  background: linear-gradient(90deg,#0066ff,#4dc9ff);
+  transition: width 450ms linear;
+}
+
+@media (min-width: 1024px) {
+  .auto-title { font-size: 3.6rem; }
+  .auto-desc { font-size: 1.15rem; }
+}
+
+@media (max-width: 767px) {
+  .auto-title { font-size: 1.75rem; }
+  .auto-desc { font-size: 0.95rem; }
+  .auto-banner-inner { height: 75vh; }
+}

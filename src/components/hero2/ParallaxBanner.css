@@ -1,0 +1,320 @@
+/* ParallaxBanner.css - Dual Banner Parallax Effect */
+
+.parallax-banner-container {
+  width: 100%;
+  overflow: hidden;
+}
+
+/* Each banner section */
+.parallax-section {
+  position: relative;
+  width: 100%;
+  min-height: 100vh;
+  min-height: 100dvh;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  overflow: hidden;
+}
+
+/* Background layer with parallax */
+.parallax-background {
+  position: absolute;
+  top: -20%;
+  left: 0;
+  right: 0;
+  bottom: -20%;
+  z-index: 0;
+  will-change: transform;
+}
+
+.parallax-bg-image {
+  width: 100%;
+  height: 100%;
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+}
+
+.parallax-overlay {
+  position: absolute;
+  inset: 0;
+  z-index: 1;
+}
+
+/* Content layer */
+.parallax-content {
+  position: relative;
+  z-index: 10;
+  width: 100%;
+  padding: 2rem 1rem;
+  will-change: transform, opacity;
+}
+
+.parallax-content-inner {
+  max-width: 800px;
+  margin: 0 auto;
+  text-align: center;
+}
+
+/* Typography */
+.parallax-subtitle {
+  display: inline-block;
+  font-size: 0.875rem;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 3px;
+  color: #4dc9ff;
+  margin-bottom: 1rem;
+  padding: 0.5rem 1rem;
+  background: rgba(77, 201, 255, 0.1);
+  border-radius: 50px;
+}
+
+.parallax-title {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #ffffff;
+  margin-bottom: 1.5rem;
+  line-height: 1.2;
+  text-shadow: 0 2px 10px rgba(0, 0, 0, 0.3);
+}
+
+.parallax-description {
+  font-size: 1.1rem;
+  line-height: 1.8;
+  color: rgba(255, 255, 255, 0.9);
+  margin-bottom: 2rem;
+  max-width: 600px;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+/* Button */
+.parallax-btn {
+  display: inline-flex;
+  align-items: center;
+  background: linear-gradient(135deg, #0066ff, #4dc9ff);
+  border: none;
+  border-radius: 50px;
+  padding: 1rem 2.5rem;
+  font-size: 1rem;
+  font-weight: 600;
+  letter-spacing: 1px;
+  text-transform: uppercase;
+  color: white;
+  text-decoration: none;
+  transition: all 0.3s ease;
+  box-shadow: 0 10px 30px rgba(0, 102, 255, 0.3);
+  min-height: 48px;
+}
+
+.parallax-btn:hover {
+  transform: translateY(-3px);
+  box-shadow: 0 15px 40px rgba(0, 102, 255, 0.4);
+  color: white;
+}
+
+/* Scroll indicator */
+.parallax-scroll-indicator {
+  position: absolute;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  gap: 8px;
+  color: rgba(255, 255, 255, 0.8);
+  font-size: 0.8rem;
+  font-weight: 500;
+  z-index: 20;
+  animation: pulse 2s ease-in-out infinite;
+}
+
+.scroll-arrow {
+  width: 40px;
+  height: 40px;
+  border: 2px solid rgba(255, 255, 255, 0.5);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  background: rgba(0, 0, 0, 0.2);
+  backdrop-filter: blur(4px);
+}
+
+.scroll-arrow i {
+  animation: bounce 1.5s ease-in-out infinite;
+}
+
+@keyframes pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+@keyframes bounce {
+  0%, 100% { transform: translateY(0); }
+  50% { transform: translateY(5px); }
+}
+
+/* Transition fade between banners */
+.parallax-transition-fade {
+  position: absolute;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  height: 150px;
+  background: linear-gradient(to bottom, transparent, rgba(0, 0, 0, 0.3));
+  z-index: 5;
+  pointer-events: none;
+}
+
+/* ==========================================
+   RESPONSIVE STYLES
+   ========================================== */
+
+/* Desktop (1024px+) */
+@media (min-width: 1024px) {
+  .parallax-title {
+    font-size: 3.5rem;
+  }
+
+  .parallax-description {
+    font-size: 1.25rem;
+  }
+
+  .parallax-btn {
+    padding: 1.25rem 3rem;
+    font-size: 1.1rem;
+  }
+}
+
+/* Tablet (768px - 1023px) */
+@media (min-width: 768px) and (max-width: 1023px) {
+  .parallax-title {
+    font-size: 2.75rem;
+  }
+
+  .parallax-description {
+    font-size: 1.1rem;
+  }
+}
+
+/* Mobile (max 768px) */
+@media (max-width: 767px) {
+  .parallax-section {
+    min-height: 85vh;
+    min-height: 85dvh;
+  }
+
+  .parallax-background {
+    top: -10%;
+    bottom: -10%;
+  }
+
+  .parallax-content {
+    padding: 1.5rem 1rem;
+  }
+
+  .parallax-subtitle {
+    font-size: 0.75rem;
+    letter-spacing: 2px;
+    padding: 0.4rem 0.8rem;
+  }
+
+  .parallax-title {
+    font-size: 1.75rem;
+    margin-bottom: 1rem;
+  }
+
+  .parallax-description {
+    font-size: 0.95rem;
+    line-height: 1.7;
+    margin-bottom: 1.5rem;
+  }
+
+  .parallax-btn {
+    padding: 0.875rem 2rem;
+    font-size: 0.9rem;
+  }
+
+  .parallax-scroll-indicator {
+    bottom: 20px;
+    font-size: 0.75rem;
+  }
+
+  .scroll-arrow {
+    width: 36px;
+    height: 36px;
+  }
+
+  .parallax-transition-fade {
+    height: 100px;
+  }
+}
+
+/* Small mobile (max 480px) */
+@media (max-width: 480px) {
+  .parallax-section {
+    min-height: 80vh;
+    min-height: 80dvh;
+  }
+
+  .parallax-title {
+    font-size: 1.5rem;
+  }
+
+  .parallax-description {
+    font-size: 0.9rem;
+  }
+
+  .parallax-btn {
+    padding: 0.75rem 1.5rem;
+    font-size: 0.85rem;
+  }
+}
+
+/* Extra small mobile (max 375px) */
+@media (max-width: 375px) {
+  .parallax-title {
+    font-size: 1.35rem;
+  }
+
+  .parallax-description {
+    font-size: 0.85rem;
+  }
+}
+
+/* Extra extra small mobile (max 320px) */
+@media (max-width: 320px) {
+  .parallax-section {
+    min-height: 75vh;
+    min-height: 75dvh;
+  }
+
+  .parallax-title {
+    font-size: 1.2rem;
+  }
+
+  .parallax-description {
+    font-size: 0.8rem;
+  }
+
+  .parallax-btn {
+    padding: 0.65rem 1.25rem;
+    font-size: 0.8rem;
+  }
+}
+
+/* Touch device hover fix */
+@media (hover: none) {
+  .parallax-btn:hover {
+    transform: none;
+  }
+
+  .parallax-btn:active {
+    transform: scale(0.98);
+  }
+}
+

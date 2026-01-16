@@ -1,0 +1,30 @@
+/* Rich text editor styles */
+.quill {
+  background: white;
+  border-radius: 8px;
+}
+
+.ql-toolbar {
+  border: 2px solid #e0e0e0 !important;
+  border-radius: 8px 8px 0 0 !important;
+  background: #f8f9fa;
+}
+
+.ql-container {
+  border: 2px solid #e0e0e0 !important;
+  border-top: none !important;
+  border-radius: 0 0 8px 8px !important;
+  font-size: 15px;
+  min-height: 300px;
+}
+
+.ql-editor {
+  min-height: 300px;
+  font-family: inherit;
+}
+
+.ql-editor.ql-blank::before {
+  color: #7f8c8d;
+  font-style: normal;
+}
+

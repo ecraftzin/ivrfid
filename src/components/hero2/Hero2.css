@@ -1,0 +1,198 @@
+/* Hero2.css - Scroll Expansion Parallax Effect - Mobile Optimized */
+
+/* Expanded Content Styles */
+.hero-content-expanded {
+    width: 100%;
+    padding: 2rem 0;
+    background: rgba(255, 255, 255, 0.95);
+    border-radius: 1rem 1rem 0 0;
+    margin-top: -1rem;
+}
+
+.expanded-heading {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #1a1a2e;
+    margin-bottom: 1.5rem;
+    background: linear-gradient(90deg, #0066ff, #4dc9ff);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    background-clip: text;
+    line-height: 1.2;
+}
+
+.expanded-description {
+    font-size: 1.2rem;
+    line-height: 1.8;
+    color: #444;
+    max-width: 800px;
+    margin: 0 auto 2rem;
+}
+
+.expanded-btn-container {
+    margin-top: 2rem;
+}
+
+.expanded-btn {
+    background: linear-gradient(135deg, #0066ff, #4dc9ff);
+    border: none;
+    border-radius: 50px;
+    padding: 1rem 3rem !important;
+    font-size: 1.1rem;
+    font-weight: 600;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+    color: white;
+    transition: all 0.3s ease;
+    position: relative;
+    overflow: hidden;
+    box-shadow: 0 10px 30px rgba(0, 102, 255, 0.3);
+    text-decoration: none;
+    display: inline-flex;
+    align-items: center;
+    /* Improve touch target for mobile */
+    min-height: 48px;
+    touch-action: manipulation;
+}
+
+.expanded-btn:hover {
+    transform: translateY(-3px);
+    box-shadow:
+        0 15px 40px rgba(0, 102, 255, 0.4),
+        0 0 20px rgba(77, 201, 255, 0.2);
+    color: white;
+}
+
+/* Mobile: Remove hover transform to prevent accidental triggers */
+@media (hover: none) {
+    .expanded-btn:hover {
+        transform: none;
+    }
+
+    .expanded-btn:active {
+        transform: scale(0.98);
+    }
+}
+
+.expanded-btn::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.7s ease;
+}
+
+.expanded-btn:hover::before {
+    left: 100%;
+}
+
+/* ==========================================
+   RESPONSIVE DESIGN - MOBILE OPTIMIZED
+   ========================================== */
+
+/* Tablet (768px-1200px) */
+@media (max-width: 1200px) {
+    .expanded-heading {
+        font-size: 2rem;
+    }
+
+    .expanded-description {
+        font-size: 1.1rem;
+    }
+}
+
+/* Mobile (max 768px) */
+@media (max-width: 768px) {
+    .hero-content-expanded {
+        padding: 1.5rem 1rem;
+        border-radius: 0.75rem 0.75rem 0 0;
+    }
+
+    .expanded-heading {
+        font-size: 1.75rem;
+        margin-bottom: 1rem;
+        padding: 0 0.5rem;
+    }
+
+    .expanded-description {
+        font-size: 1rem;
+        line-height: 1.7;
+        padding: 0 0.5rem;
+        margin-bottom: 1.5rem;
+    }
+
+    .expanded-btn-container {
+        margin-top: 1.5rem;
+    }
+
+    .expanded-btn {
+        padding: 0.875rem 2rem !important;
+        font-size: 0.95rem;
+        width: auto;
+        max-width: 90%;
+    }
+}
+
+/* Small mobile (max 480px) */
+@media (max-width: 480px) {
+    .hero-content-expanded {
+        padding: 1.25rem 0.75rem;
+    }
+
+    .expanded-heading {
+        font-size: 1.4rem;
+        margin-bottom: 0.875rem;
+    }
+
+    .expanded-description {
+        font-size: 0.95rem;
+        line-height: 1.6;
+        margin-bottom: 1.25rem;
+    }
+
+    .expanded-btn-container {
+        margin-top: 1.25rem;
+    }
+
+    .expanded-btn {
+        padding: 0.75rem 1.5rem !important;
+        font-size: 0.875rem;
+        letter-spacing: 0.5px;
+    }
+}
+
+/* Extra small mobile (max 375px) */
+@media (max-width: 375px) {
+    .expanded-heading {
+        font-size: 1.25rem;
+    }
+
+    .expanded-description {
+        font-size: 0.9rem;
+    }
+
+    .expanded-btn {
+        padding: 0.7rem 1.25rem !important;
+        font-size: 0.8rem;
+    }
+}
+
+/* Extra extra small mobile (max 320px) */
+@media (max-width: 320px) {
+    .hero-content-expanded {
+        padding: 1rem 0.5rem;
+    }
+
+    .expanded-heading {
+        font-size: 1.1rem;
+        margin-bottom: 0.75rem;
+    }
+
+    .expanded-description {
+        font-size: 0.85rem;
+        line-height: 1.55;
+    }
+}

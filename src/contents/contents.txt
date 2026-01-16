@@ -1,0 +1,816 @@
+1.	RFID Tags & hardware’s
+1.1 RFID TAGS
+UHF RFID Tags are a type of passive RFID tag that is commonly used for asset tracking. RFID labels have a read range that can vary depending on the size of the tag and the specific RFID application, but can typically be read from several meters away. This makes them ideal for tracking assets across large areas or in complex environments.
+Discover a wide selection of high-quality UHF RFID tags, designed for diverse applications like logistics, race timing, and asset tracking. Our advanced tags feature durable designs with an integrated circuit, antenna, and protective material for reliable performance on various surfaces.
+a)	RFID on metal Tags
+On metal flexible label can be stuck on metallic assets easily, especially for irregular and uneven surfaces, it has good performance on the metal surface, and can be printed and encoded by an RFID printer.
+They offer an extended reading range, making them competent for disparate application areas.
+•	Operating Frequency: Global (865-928 MHz)
+•	Interface Protocol: ISO 18000-63 and EPC global Gen2v2
+•	Material: PET / Synthetic Polyester
+•	IC type: Impinj Monza R6P or Monza M730
+•	Memory: EPC 96 bits, TID 48 bits
+•	Read range: up to 6 m
+•	IP68 rated
+•	Write Cycle Endurance: 100,000 cycles
+•	Available Sizes: 50 x 15 mm, 60 x 25 mm, 70 x 30 mm and customized sizes available upon request
+•	Superior adhesion on various surfaces including metal and plastic
+•	Applicable Surface Materials: All surfaces, optimized for metal
+•	Customized printing of logo, text, barcode, etc.
+•	Customer specific encoding of EPC
+b)	Non-metal RFID Tags
+Non-metal RFID tags are specially designed for use in pallet and Item-level tracking applications. It can be applied to a wide range of non-metallic objects, making it suitable for use in various other applications like warehouse management, asset tracking, inventory management, box level Tagging, etc
+It performs well on various non-metallic objects, including plastic or cardboard cases & PC surfaces, making it ideal for Retails & multiple industrial applications.
+•	Operating Frequency: Global (865-928 MHz)
+•	Interface Protocol: ISO 18000-63 and EPC global Gen2v2
+•	Material: Polyester / paper
+•	IC type: NXP UCODE 8/9
+•	Memory: EPC 96 bits, TID 48 bits
+•	Read range: up to 8 m
+•	Water resistant
+•	Write Cycle Endurance: 100,000 cycles
+•	Available Sizes: 50 x 35 mm, 50 x 50 mm, 72 x 27 mm, 90 x 30 mm, 97 x 27 mm and customized sizes available upon request.
+•	3M self-adhesive
+•	Applicable Surface Materials: Non-metallic surfaces
+•	Customized printing of logo, text, barcode, etc.
+•	Customer specific encoding of EPC
+c)	RFID ABS Tags
+ABS RFID is a RAIN(UHF) RFID hard tag with a slim structure specially optimized for securing metal and non-metal assets. With its industry-leading performance, durable outdoor resistance and wide radiation pattern, you can now easily track and monitor any asset or item quickly and reliably.
+•	Operating Frequency: Global (865-928 MHz)
+•	Interface Protocol: ISO 18000-63 and EPC global Gen2v2
+•	Material: ABS
+•	IC type: NXP UCODE 8/9 or Monza M730
+•	Memory: EPC 128 bits, TID 96 bits
+•	Read range: up to 8 m
+•	Durable outdoor resistant & high-level RF performance
+•	IP68 rated
+•	Write Cycle Endurance: 100,000 cycles
+•	Available Sizes: 70 x 25 mm, 79 x 31 mm, 88 x 27 mm and customized sizes available upon request.
+•	Self-adhesive 
+•	Applicable Surface Materials: All surfaces
+•	Customized printing of logo, text, barcode, etc.
+•	Customer specific encoding of EPC
+d)	RFID Cable Tie Tags
+The RFID Cable Tie Tag offers an innovative solution for efficient and fast item identification. These cable ties are integrated with an RFID transponder, combining the practicality of traditional cable ties with the advanced capabilities of RFID technology.
+Ideal for securing, tracking, and identifying assets, the RFID Cable Tie Tags are perfect for asset management and inventory control.
+•	Operating Frequency: Global (865-928 MHz)
+•	Interface Protocol: ISO 18000-63 and EPC global Gen2v2
+•	Material: ABS
+•	IC type: NXP UCODE 8/9 
+•	Memory: EPC 128 bits, TID 96 bits
+•	Read range: up to 6 m
+•	Durable outdoor resistant & high-level RF performance
+•	IP68 rated
+•	Write Cycle Endurance: 100,000 cycles
+•	Available Sizes: 79 x 29 mm and customized sizes available upon request.
+•	Applicable Surface Materials: All surfaces.
+•	Customized printing of logo, text, barcode, etc.
+•	Customer specific encoding of EPC
+e)	RFID Laundry Tags
+RFID Laundry Tag provides immediate and long-term benefits to RFID laundry management in process and life-cycle traceability. Flexible Laundry Tag is a frequency independent which is ideal for laundry applications and to meet the high mechanical, temperature and chemical resistance required for harsh environments common to laundry applications. Soft, washable & easily bendable Laundry tag operates effectively with a very good read range.
+•	Operating Frequency: Global (865-928 MHz)
+•	Interface Protocol: ISO 18000-63 and EPC global Gen2v2
+•	Material: Silicon/Linen 
+•	IC type: NXP UCODE 8/9 
+•	Memory: EPC 128 bits, TID 96 bits
+•	Read range: up to 3 m
+•	Waterproof fabric design
+•	IP68 rated
+•	300-400 wash cycles
+•	Available Sizes: 70 x 15 mm and customized sizes available upon request.
+•	Can be stitched or adhesive-mounted for versatility
+•	Customized printing of logo, text, barcode, etc.
+•	Customer specific encoding of EPC
+f)	RFID Windshield tags
+The RFID Windshield Tag is a high-performance, tamper-proof tag designed for vehicle identification and tracking applications. It comes with strong self-adhesive backing for easy installation on the inner side of vehicle windshields. This tag is flexible, durable, and weather-resistant, ensuring reliable performance in various environmental conditions.
+•	Operating Frequency: Global (865-928 MHz)
+•	Interface Protocol: ISO 18000-63 and EPC global Gen2v2
+•	Material: PET 
+•	IC type: NXP UCODE 8/9 
+•	Memory: EPC 128 bits, TID 96 bits
+•	Read range: up to 8 m
+•	Operates efficiently on both glass and non-metallic surfaces
+•	Available Sizes: 90 x 30 mm, 97 X 27 mm and customized sizes available upon request.
+•	Self-adhesive backing for easy and quick installation on windshields
+•	Customized printing of logo, text, barcode, etc.
+•	Customer specific encoding of EPC
+•	Tamper-proof design for secure and permanent usage
+
+g)	 RFID Jewelry tags
+RFID UHF Jewelry Label Tags provide a seamless solution for managing bulk inventory with precision and efficiency. Designed in a unique shape, these non-tearable polyester labels are ideal for jewellery, optical items, and similar applications. Featuring self-adhesive backing, they ensure secure attachment while being easy to remove. 
+•	Enables instant and accurate item counts for stock management.
+•	Operating Frequency: Global (865-928 MHz)
+•	Interface Protocol: ISO 18000-63 and EPC global Gen2v2
+•	Material: PET 
+•	IC type: Impinj R6P 
+•	Memory: EPC 128 bits, TID 96 bits
+•	Read range: up to 3 m
+•	Non-tearable polyester with a laminated finish for longevity.
+•	Available Sizes: 68x26 mm and customized sizes available upon request.
+•	Provides strong adhesion yet allows easy remova
+•	Customized printing of logo, text, barcode, etc.
+•	Customer specific encoding of EPC
+•	Resistant to wear and tear, ensuring labels last in various environments.
+h)	RFID Library Tags
+HF library tags and inlays offer great application flexibility and fit-for-function design in the most demanding applications. The Application area is Books, Documents Tracking, Libraries, Loyalty Cards, and Event Ticketing as well as industrial closed-loop systems for manufacturing automation.
+•	Operating Frequency: 13.56 MHz
+•	ISO/IEC 14443 Type A 1-3, ISO/15693
+•	Material: PET 
+•	IC type: NXP MIFARE S50/S70, NXP ICODE SLI
+•	Memory: 1KB/4KB
+•	Read range: 8-10 cm
+•	3M self adhesive
+•	Available Sizes: 50 x50 mm and customized sizes available upon request.
+•	Provides strong adhesion yet allows easy remova
+•	Customized printing of logo, text, barcode, etc.
+•	Applicable for library management and document tracking solutions
+
+
+
+i)	RFID Tyre tags
+The RFID Tyre Tag is a high-performance solution designed for effective tire management across a wide range of vehicles, including trucks, trailers, buses, motorcycles, and personal cars. These tags are engineered to withstand extreme temperatures and the harsh conditions encountered during tire re-treading and everyday usage. Made from durable tire rubber and equipped with advanced RFID technology, these tags ensure reliable identification, inventory management, and theft protection throughout the tire’s lifespan.
+•	Built to endure the high heat from the tire re-stepping process
+•	Operating Frequency: Global (865-928 MHz)
+•	Interface Protocol: ISO 18000-63 and EPC global Gen2v2
+•	Material: Rubber
+•	IC type: Alien Higgs-3/4, Monza 4
+•	Memory: EPC 128 bits, TID 96 bits
+•	Read range: up to 6 m
+•	Designed to function effectively throughout the tire's operational life
+•	Available Sizes: 135 x 85 mm and customized sizes available upon request.
+•	3M industrial adhesive
+•	Customized printing of logo, text, barcode, etc.
+•	Customer specific encoding of EPC
+•	Fully protected against dust and water, making it ideal for outdoor and rough conditions.
+•	Ideal for managing tires across fleets of trucks, buses, and commercial vehicles.
+
+1.2 RFID Hardware’s
+(types, description and pictures from previous website)
+
+
+1.3 Metal Asset Tags
+
+a)	Anodized aluminium asset tags 
+Anodized aluminium asset tags are a highly durable solution for identifying and tracking property, especially in harsh industrial and outdoor environments where standard labels would fail. The printing method embeds graphics and data beneath a protective anodic layer, making them resistant to abrasion, chemicals, UV light, and extreme temperature
+We offer a broad range of anodized aluminum barcode labels and metal barcode labels, created to provide unmatched durability, legibility, and tracking accuracy.
+
+•	Available Sizes: 50 x 25 mm, 60 x 30 mm, 90 x 45 mm and customized sizes available upon request.
+•	Thickness: 0.3 mm, 0.5 mm, 0.7 mm, 1 mm
+•	3M self-adhesive
+•	Customized printing of logo, text, barcode,QR Code… etc.
+•	Harsh Environment Performance
+•	Enhanced Scan Rates
+
+b) UV printed Metal Asset Tags
+
+Our UV printed metal asset tags are engineered for unparalleled durability and performance in the most demanding environments, providing a permanent and reliable solution for all your asset management needs. Utilizing advanced UV curing technology, these tags ensure your critical identification data remains intact and legible for the lifespan of your assets, significantly outperforming traditional plastic or paper labels.
+Equip your high-value assets with identification tags built to last. Our UV printed metal asset tags provide the reliability and performance necessary to optimize your asset tracking, streamline maintenance management, and ensure regulatory compliance. 
+
+•	Available Sizes: 50 x 25 mm, 60 x 30 mm, 90 x 45 mm and customized sizes available upon request.
+•	Thickness: 0.3 mm, 0.5 mm, 0.7 mm, 1 mm
+•	3M self-adhesive
+•	Customized printing of logo, text, barcode, Qr code, etc.
+•	Harsh Environment Performance
+•	Enhanced Scan Rates
+•	Tamper Resistance
+
+
+c) Engraved Metal Asset Tags
+
+Engraved metal asset tags are highly durable identification solutions designed for permanent asset tracking, especially in harsh or demanding environments where standard labels fail. Made primarily from high-grade anodized aluminum or stainless steel, these tags provide reliable, long-lasting identification for valuable equipment, machinery, IT assets, and outdoor infrastructure.
+
+•	Available Sizes: 50 x 25 mm, 60 x 30 mm, 90 x 45 mm and customized sizes available upon request.
+•	Thickness: 0.3 mm, 0.5 mm, 0.7 mm, 1 mm
+•	3M self-adhesive
+•	Customized printing of logo, text, barcode, Qr code, etc.
+•	Harsh Environment Performance
+•	Enhanced Scan Rates
+•	Tamper Resistance
+•	Permanent Identification
+
+1.4 RFID Cards
+RFID (Radio Frequency Identification) cards are a type of smart card equipped with an embedded RFID chip and antenna. These cards utilize radio frequency waves to wirelessly transmit data to and from RFID readers, enabling a wide range of applications including access control, identification, and asset tracking.
+ IV RFID Solutions LLC offers RFID cards designed to revolutionize efficiency, security, and connectivity across diverse industries in the UAE and the wider GCC region. Our high-quality, sturdy, and cost-effective RFID smart cards replace traditional, less secure methods like magnetic stripes, offering superior data management and operational optimization. 
+Types of RFID Cards we are supplying:
+•	Mifare 13.56 MHz cards
+•	Mifare ultralight cards
+•	Mifare DESFire
+•	Mifare plus SE cards
+•	ICODE SLI cards
+•	125Khz EM Proximity cards
+•	T5577 Temic cards
+•	HID Cards
+•	UHF Cards
+•	Dual frequency cards.
+•	Desifire Cards
+a)	Hotel Key Cards
+Hotel keycards play a crucial role in ensuring guest safety, security, and convenience during their stay. They provide secure access to accommodations while enabling staff to manage room assignments, track occupancy, and improve operations.
+b)	Wooden Key Cards / Eco friendly RFID Cards
+Wooden keycards/ ecofriendly rfid cards are eco-friendly alternatives to plastic cards, crafted from sustainably sourced wood. They combine visual appeal with environmental responsibility, ideal for eco-conscious hotels and resorts.
+These cards combine advanced RFID technology with renewable or recycled materials, allowing businesses to meet sustainability goals without compromising on performance or functionality
+c)	NFC Business Cards / Google Review Cards
+NFC business cards allow seamless sharing of digital content via tap. Google review cards prompt customers to leave feedback on your Google Business listing, boosting credibility and visibility.
+d)	Epoxy NFC Tags
+•	Operating Frequency: 13.56 MHz & 125Khz
+•	High-quality epoxy resin, providing a durable and long-lasting
+•	Aesthetic Appeal & Versatile Design
+•	Available in various shapes and sizes (round, square, custom), colors, and with options like pre-drilled holes or industrial-grade adhesive backings for easy attachment to diverse surfaces.
+•	Can store a small amount of data, such as a URL or a unique identifier. When tapped with an NFC-enabled device, users can access the stored information for various purposes.
+•	Application includes Asset Management, Access Control, Identification, Marketing & Promotions….
+    e) RFID Wrist bands
+•	Comes in a variety of materials including Silicone, Fabric/Woven, Disposable, Paper/Tyvek tailored for specific use cases and environments.
+•	Can store data essential to any RFID based systems like Access control, electronic locks and Customer loyalty programs
+•	Offers a hands-free experience for users, eliminating the need to carry wallets, keys, or tickets, thereby improving convenience and satisfaction
+•	Available in all frequencies (LF, HF, UHF)
+    f) RFID Key Fobs
+•	Designed to attach easily to a keychain, pocket, or lanyard, ensuring they are always on hand.
+•	Can store data essential to any RFID based systems like Access control, electronic locks and Customer loyalty programs.
+•	Size and finish can be customizable
+•	available in common frequencies such as Low Frequency (LF) 125 kHz for basic access or High Frequency (HF) 13.56 MHz for more secure, multi-application uses
+2.	Digital Locks
+
+2.1	SOLITY Digital Locks
+SOLITY ‘KOREA’S No.1 Digital Lock’
+‘IV RFID LLC is the Official distributor of SOLITY Digital locks in UAE”
+SOLITY, Korea's leading digital door lock brand, provides advanced and robust security solutions designed for modern living and commercial use. Known for combining trusted craftsmanship with future-ready innovation, their products ensure both enhanced safety and convenience.
+•	Multiple Access Methods: SOLITY locks offer versatile keyless entry options, including biometric fingerprint recognition, customizable PIN codes (with an anti-peeping function), RFID cards/fobs, and mobile app control via Bluetooth or Wi-Fi.
+•	In built fire Sensor: Solity digital locks have built-in fire sensors that trigger an alarm and automatically unlock the door at high temperatures, ensuring escape during a fire; SOLITY locks are fire-rated and certified to meet safety standards
+•	Home automation Integration: Seamless integration with smart home ecosystems like Amazon Alexa, smart Things….
+•	SOLITY Digital locks are Matter certified, allows universal compatibility with smart home platforms without brand restrictions.
+•	Direct Integration with KNX with TXRX module without any third-party modules.
+“Experience the perfect blend of digital convenience and life-saving performance with our fire-rated locks. These locks not only offer keyless entry and enhanced security but are also engineered to withstand high temperatures. Their robust components and mechanisms are designed to prevent fire from damaging or unlocking the latch, ensuring reliable fire resistance and providing alerts when fire or smoke is detected nearby.”
+“In a crisis, our fire-rated locks will secure your access or lock down effectively, allowing for a safe escape or minimizing damage. Avoid the risk associated with inexpensive or uncertified locks; instead, explore our certified, tested fire-resistant locks to bring advanced home safety within your reach”
+(* for solity, pictures you can download from the link attached)
+a)	Push Pull Lock: GP-6000BK
+TheSolity GP-6000BKis a premium smart door lock featuring an ergonomic push-pull handle with an integrated, fast one-step fingerprint sensor for seamless access
+Ref:  https://www.solitykorea.com/en/products/products/show?GOOD_SEQ=167
+Ref: https://solitysmartlock.com/product/solity-gp-6000/
+Features:
+1.	Push-Pull Design: The innovative handle design allows you to unlock and open the door in one fluid, ergonomic motion, which is especially convenient when your hands are full.
+2.	Multiple Access Modes: The lock supports various authentication methods including fingerprint, PIN Code, RFID Card, Mechanical Key and with Smart solity App (Bluetooth & Wi-Fi)
+3.	Fire-Rated: Tested to resist fire for up to 60 minutes and includes a high-temperature detection alarm with self-opening for emergency escape
+4.	Alarms: Features alarms for intrusion, breakage attempts, unauthorized entry after multiple failed attempts, and low battery notifications.
+5.	Automatic lock function, internal double lock, fake password function,
+6.	Powered by AA batteries  
+7.	In-built Wi-fi Module, allows for remote monitoring, control, and access log viewing from anywhere through the Smart Solity app.
+8.	Compatible with amazon Alexa, Smart things, ….(please include the icons for the same)
+9.	Matter certified lock, allows universal compatibility with smart home platforms without brand restrictions.
+10.	Direct integration with KNX with TXRX module
+
+
+
+ ‘Contact us to explore more about this product’
+
+b)	Lever Lock: GM-7000BK
+Ref: https://www.solitykorea.com/en/products/products/show?GOOD_SEQ=221
+Ref: https://jaldigitalsystem.com/product/solity-gm-7000bk/
+The Solity GM-7000BK is a premium mortise smart door lock that replaces your existing handle lever, offering six different access methods including built-in Wi-Fi for full remote control and management via the Smart Solity app.
+Solity GM-7000BK provides comprehensive security and smart functionality with its extensive access options and robust safety features.
+Features:
+1.	Multiple Access Modes: The lock supports various authentication methods including fingerprint, PIN Code, RFID Card, Mechanical Key and with Smart solity App (Bluetooth & Wi-Fi)
+2.	Fire-Rated: Tested to resist fire for up to 60 minutes and includes a high-temperature detection alarm with self-opening for emergency escape.
+3.	Alarms: Features intrusion, breakage, anti-theft, and low battery alarms.
+4.	Automatic lock function, internal double lock, fake password function,
+5.	Powered by AA batteries 
+6.	In-built Wi-fi Module, allows for remote monitoring, control, and access log viewing from anywhere through the Smart Solity app. 
+7.	Compatible with amazon Alexa, Smart things and matter certified (please include the icons for the same)
+8.	Matter certified lock, allows universal compatibility with smart home platforms without brand restrictions 
+9.	Direct integration with KNX with TXRX module
+
+c)	Lever Lock: GM-6000BK
+The Solity GM-6000BK features an innovative fingerprint-type handle that combines quick and accurate fingerprint recognition, ensuring seamless access similar to smartphone authentication. This handle has been newly developed with advanced Solity technology.
+Ref: https://www.solitykorea.com/en/products/products/show?GOOD_SEQ=165
+Ref: https://jaldigitalsystem.com/product/gm-6000bk/
+1.	Multiple Access Modes: The lock supports various authentication methods including fingerprint, PIN Code, RFID Card, Mechanical Key and with Smart solity App (Bluetooth & Wi-Fi)
+2.	Fire-Rated: Tested to resist fire for up to 60 minutes and includes a high-temperature detection alarm with self-opening for emergency escape.
+3.	Alarms: Features intrusion, breakage, anti-theft, and low battery alarms.
+4.	Automatic lock function, internal double lock, fake password function,
+5.	Powered by AA batteries 
+6.	In-built Wi-fi Module, allows for remote monitoring, control, and access log viewing from anywhere through the Smart Solity app. 
+7.	Compatible with amazon Alexa, Smart things and matter certified (please include the icons for the same)
+8.	Matter certified lock, allows universal compatibility with smart home platforms without brand restrictions 
+9.	Direct integration with KNX with TXRX module
+
+d)	Lever Lock: GM-1000BK
+
+The SOLITY GM-1000BK smart lever-handle digital mortise lock offers multiple access methods and robust security features. It is designed for residential and commercial doors, combining traditional mechanical key access with modern smart functionalities
+
+Ref: https://jaldigitalsystem.com/product/solity-gm-1000bk/
+Ref: https://www.solitykorea.com/en/products/products/show?GOOD_SEQ=209
+Ref: https://altix.ae/product/solity-gm-1000/?srsltid=AfmBOoqWRpDeaoNRcsLnMj4h7hWAbff9rPsZ31gkFUqtXAxVinG5eQpH
+
+
+1.	Multiple Access Modes: The lock supports various authentication methods including fingerprint, PIN Code, RFID Card, Mechanical Key and with Smart solity App (Bluetooth, Wi-Fi optional)
+2.	Fire tested: Tested to resist fire and includes a high-temperature detection alarm with self-opening for emergency escape.
+3.	Alarms: Features intrusion, breakage, anti-theft, and low battery alarms.
+4.	Automatic lock function, internal double lock, fake password function,
+5.	Powered by AA batteries 
+6.	In-built BLE Module, Wi-Fi (optional, requires a separate bridge/module for remote control). 
+7.	Compatible with amazon Alexa, Smart things and matter certified (please include the icons for the same)
+8.	Matter certified lock, allows universal compatibility with smart home platforms without brand restrictions 
+9.	Direct integration with KNX with TXRX module
+e)	Push Pull Lock: GSP-2000BK
+The SOLITY GSP-2000BK is a premium push-pull smart door lock that offers a modern, ergonomic design and comprehensive range of access and security features. The "push-pull" design allows for intuitive opening and closing, and it features multiple authentication methods for enhanced security and convenience
+
+Ref: https://www.solitykorea.com/en/products/products/show?GOOD_SEQ=145
+
+Ref: https://jaldigitalsystem.com/product/solity-gsp-2000bk-black/
+
+1.	Push-Pull Design: The handle is designed to open and close the door by intuitively pushing or pulling the handle, without the need to rotate it.
+2.	Multiple Access Modes: The lock supports various authentication methods including fingerprint, PIN Code, RFID Card, Mechanical Key and with Smart solity App (Bluetooth & Wi-Fi)
+3.	Fire-Rated: Tested to resist fire for up to 60 minutes and includes a high-temperature detection alarm with self-opening for emergency escape
+4.	Alarms: Features alarms for intrusion, breakage attempts, unauthorized entry after multiple failed attempts, and low battery notifications.
+5.	Automatic lock function, internal double lock, fake password function,
+6.	Powered by AA batteries  
+7.	In-built Wi-fi Module, allows for remote monitoring, control, and access log viewing from anywhere through the Smart Solity app.
+8.	Compatible with amazon Alexa, Smart things, ….(please include the icons for the same)
+9.	Matter certified lock, allows universal compatibility with smart home platforms without brand restrictions.
+10.	Direct integration with KNX with TXRX module
+f)	Push Pull Lock: GP-4000BK
+The Solity GP-4000BK smart lock stands out as an advanced smart lock technology, offering high security, innovative features, and a stylish design. Solity, a brand renowned for advancing smart home security, leads the charge with the GP-4000BK, providing homeowners with superior protection. This smart lock goes beyond simply securing a door; it plays a vital role in the modern smart home ecosystem, aiming to fulfill the sophisticated security demands of contemporary living.
+
+With its sleek, modern design, the GP-4000BK enhances contemporary home decor and is durable enough to withstand diverse weather conditions and everyday use
+
+Ref: https://www.solitykorea.com/en/products/products/show?GOOD_SEQ=212
+Ref: https://larxtrading.com.ph/shop/smart-lock/solity-gp-4000bk/
+1.	Push-Pull Design: The intuitive handle mechanism allows you to open the door by simply pushing from the inside or pulling from the outside after authentication.
+2.	Multiple Access Modes: The lock supports various authentication methods including fingerprint, PIN Code, RFID Card, Mechanical Key and with Smart solity App (Bluetooth & Wi-Fi)
+3.	Fire-Rated: Tested to resist fire for up to 60 minutes and includes a high-temperature detection alarm with self-opening for emergency escape
+4.	Alarms: Features alarms for intrusion, breakage attempts, unauthorized entry after multiple failed attempts, and low battery notifications.
+5.	Automatic lock function, internal double lock, fake password function,
+6.	Powered by AA batteries  
+7.	In-built Wi-fi Module, allows for remote monitoring, control, and access log viewing from anywhere through the Smart Solity app.
+8.	Compatible with amazon Alexa, Smart things, ….(please include the icons for the same)
+9.	Matter certified lock, allows universal compatibility with smart home platforms without brand restrictions.
+10.	Direct integration with KNX with TXRX module.
+
+g)	Push Pull Lock: GEA-1000
+The SOLITY GEA-1000 offers a perfect blend of innovation, security, and ease of use, making it an ideal choice for modern homes and apartments.
+GEA-1000 is a premium, fire-rated smart door lock from Korea that combines multiple access methods with convenient built-in Wi-Fi for remote management and monitoring
+
+Ref: https://solitysmartlock.com/product/solity-gea-1000/
+
+1.	Push-Pull Design: The innovative handle design allows you to unlock and open the door in one fluid, ergonomic motion, which is especially convenient when your hands are full.
+2.	Multiple Access Modes: The lock supports various authentication methods including fingerprint, PIN Code, RFID Card, Mechanical Key and with Smart solity App (Bluetooth & Wi-Fi)
+3.	Fire-Rated: Tested to resist fire for up to 60 minutes and includes a high-temperature detection alarm with self-opening for emergency escape
+4.	Alarms: Features alarms for intrusion, breakage attempts, unauthorized entry after multiple failed attempts, and low battery notifications.
+5.	Automatic lock function, internal double lock, fake password function,
+6.	Powered by AA batteries  
+7.	In-built Wi-fi Module, allows for remote monitoring, control, and access log viewing from anywhere through the Smart Solity app.
+8.	Compatible with amazon Alexa, Smart things, ….(please include the icons for the same)
+9.	Matter certified lock, allows universal compatibility with smart home platforms without brand restrictions.
+10.	Direct integration with KNX with TXRX module
+
+h)	Gate Lock: GA-60B
+Ref: https://jaldigitalsystem.com/product/solity-ga-60b/
+Ref: https://www.solitykorea.com/en/products/products/show?GOOD_SEQ=214
+Ref: https://solitysmartlock.com/product/solity-gd-60b/
+
+The SOLITY GA-60B is a sleek, smart rim digital door lock designed for sliding or sash doors, offering multiple access methods like fingerprint (fast 0.9s recognition), passcode, RFID card, and Bluetooth app control, with optional Wi-Fi for remote access.
+1.	Multiple Access Modes: The lock supports various authentication methods including fingerprint, PIN Code, RFID Card, Mechanical Key and with Smart solity App (Bluetooth, Wi-Fi optional)
+2.	Fire tested: Tested to resist fire and includes a high-temperature detection alarm with self-opening for emergency escape.
+3.	Alarms: Features intrusion, breakage, anti-theft, and low battery alarms.
+4.	Automatic lock function, internal double lock, fake password function.
+5.	Powered by AA batteries 
+6.	In-built BLE Module, Wi-Fi (optional, requires a separate bridge/module for remote control). 
+7.	Compatible with amazon Alexa, Smart things and matter certified (please include the icons for the same)
+8.	Matter certified lock, allows universal compatibility with smart home platforms without brand restrictions 
+9.	Direct integration with KNX with TXRX module.
+
+2.2	TRUgen Digital Locks 
+Please use same products, content and photo of below Website ref: https://trugen.co.uk/category/digital-locks/
+
+
+3.	LODGING SYSTEMS
+IV RFID Solutions LLC is the official distributor of Omnitec products in UAE. Contact us to get a free consultation and to know more about omnitec products.
+3.1 OMNITEC HOTEL LOCKS 
+Omnitec offers a wide range of electronic hotel lock models for the hotel and hospitality sector with access control adaptable to all types of facilities. Electronic hotel locks with Bluetooth opening via Smartphone, proximity hotel locks and electronic locks with keypad and Bluetooth
+Incorporating electronic locks and access control devices as part of the guest service guarantees a greater degree of security, satisfaction and convenience during their stay.
+
+Security for room access is essential in the hospitality sector. Electronic hotel locks with encrypted credential reading by proximity or Bluetooth via mobile provide the peace of mind the guest is looking for and which the hotel wants to provide.
+All electronic lock models provide the security levels required in hotels and offices, both mechanically and electronically, to make guests and employees feel comfortable and safe in your hotel.
+(* for omnitec, pictures you can download from the link attached)
+
+a)	OS SLIM Lock
+Ref: https://www.omnitecsystems.com/products/electronic-hotel-lock/electronic-lock-hotel-slim
+The OS SLIM electronic lock stands out for its slim design with narrow escutcheons that give the door and the room a plus of style and elegance.
+Its high technological level combined with the opening via Bluetooth, MiFare proximity card and remotely online, through Gateway, make OS SLIM one of the models with the greatest projection in the hotel sector.
+The electronic lock for hotel with Slim design scutcheon and straight lines, for an elegant and timeless look.
+
+FEATURES
+•	Electronic lock opening via Bluetooth and MiFare proximity.
+•	Option to open and manage online by installing Gateways.
+•	Escutcheon with adaptable handle, for doors of left or right opening.
+•	PVD (Phase Vapour Deposition) lacquered colors, with greater resistance to abrasion and corrosion.
+•	Guaranteed operation in the most adverse climatological environments. Stainless steel AISI 304 or AISI 316 manufactured.
+•	Electromechanical privacy function with exterior visual indicator to prevent entries of unauthorized persons.
+•	Hidden mechanical cylinder, for auditable emergency openings, and micro USB type C connector for power in case of depleted batteries. Both hidden and protected with a rubber cap.
+•	Visual and acoustic indicators to facilitate their use by disabled persons, as well as for additional functionalities such as low battery warnings to personnel, privacy indicator, etc..
+•	Single app for administrator, hotel staff and guests. UpKey allows different functionalities according to the registered user profile.
+•	The guest is automatically logged into the app via a link created by the hotel, which the guest receives in an email.
+•	Customised app option and integration with third parties.
+•	Operates with 4 standard AA batteries.
+b)	OS SLIM CODE Lock 
+https://www.omnitecsystems.com/products/electronic-hotel-lock/electronic-lock-hotel-slim-code
+The OS SLIM CODE electronic lock stands out for its slim design with narrow escutcheons that give the door and the room a plus of style and elegance.
+Its high technological level combined with the opening via Bluetooth, MiFare proximity card, numerical code and remotely online, through Gateway, make OS SLIM CODE one of the most versatile models in the hotel sector.
+Electronic lock for hotel with Slim design scutcheon and straight lines, with four opening modes
+FEATURES
+•	Electronic lock opening via Bluetooth, MiFare proximity and numerical code.
+•	Option to open and manage online by installing Gateways.
+•	Escutcheon with adaptable handle, for doors of left or right opening.
+•	Guaranteed operation in the most adverse climatological environments. Stainless steel AISI 304 or AISI 316 manufactured.
+•	Electromechanical privacy function with exterior visual indicator to prevent entries of unauthorized persons.
+•	Hidden mechanical cylinder, for auditable emergency openings, and micro USB type C connector for power in case of depleted batteries. Both hidden and protected with a rubber cap.
+•	Visual and acoustic indicators to facilitate their use by disabled persons, as well as for additional functionalities such as low battery warnings to personnel, privacy indicator, etc..
+•	Single app for administrator, hotel staff and guests. UpKey allows different functionalities according to the registered user profile.
+•	The guest is automatically logged into the app via a link created by the hotel, which the guest receives in an email.
+•	Customised app option and integration with third parties.
+•	Operates with 4 standard AA batteries.
+c)	GAUDI 2 Lock
+https://www.omnitecsystems.com/products/electronic-hotel-lock/electronic-lock-hotel-gaudi2
+Reliable, robust and easy to install.
+Specially designed for Hotels, Offices and Residences, GAUDI integrates all security features into a single reliable and efficient device.
+The electronic proximity lock with the best quality/price ratio on the market.
+Proximity Electronic Lock for Hotel with audit trail and emergency mechanical key
+The Omnitec GAUDI electronic hotel lock incorporates a mechanical mortise lock with mechanisms manufactured in stainless steel and are equipped with:
+•	Silent latch.
+•	System of freely rotating lever in closed situation.
+•	Anti-panic function, to guarantee emergency exits.
+•	Anti-card device, to prevent undesired entries
+Features
+•	System of opening with MIFARE proximity 13.56 Mhz.
+•	Guaranteed operation in the most adverse climatological environments, thanks to its manufacture of stainless steel AISI 304 and its tropicalized electronics.
+•	Electronic lock with visual and acoustic indicators to facilitate their use by disabled persons, as well as for additional functionalities such as low battery warnings to personnel, privacy indicator, etc.
+•	Electromechanical privacy function with exterior visual indicator to prevent entries of unauthorized persons.
+•	Includes NON-volatile EPROM which even when batteries are changed, allows the conservation of the last 400 openings, with information of user, date and time.
+•	Equipped with real-time clock, which facilitates the management of any of the entries by personnel and guests.
+•	The Gaudi electronic hotel lock has a hidden mechanical cylinder, for auditable emergency openings.
+•	Operates with 4 standard AA batteries with duration of up to 20,000 openings.
+•	Configuration and auditing of the locks with wireless control unit.
+•	Electronic lock Free Turn with EURO mechanics as standard. ANSI mechanics available with fixed handle. 
+
+d)	FIT-IN Lock
+https://www.omnitecsystems.com/products/electronic-hotel-lock/electronic-hotel-lock-fitin2
+Electronic lock for hotel renovations
+Renewing mechanical, magnetic band, chip or RFID locks is easy and fast with Fit-In electronic hotel lock.
+Maintaining the existing mortise, the electronic lock Fit-In adapts to its installation and provides the ease and security of Mifare electronic locks for hotel renovations.
+OMNITEC offers the ideal electronic lock for all those installations that want to incorporate, at minimum cost, a totally flexible, advanced, secure and effective electronic hotel lock.
+With the incorporation of a new system of plates and levers, OMNITEC makes it possible to maintain existing mortise locks and enjoy all the functionalities of the proximity electronic lock.
+FIT-IN proximity electronic hotel lock complements the traditional key system, equipping it with proximity access control functions. It likewise allows updating of the obsolete and insecure magnetic band, chip or RFID systems by Mifare proximity technology.
+Features
+•	System of opening with MIFARE proximity card 13.56 Mhz. Optional Bluetooth opening.
+•	Anti-panic function to guarantee emergency exits.
+•	Guaranteed operation in the most adverse climatological environments, thanks to its manufacture of stainless steel AISI 304 and its tropicalized electronics.
+•	Electronic lock with visual and acoustic indicators to facilitate their use by disabled persons, as well as for additional functionalities such as low battery warnings to personnel, privacy indicator, etc.
+•	Electromechanical privacy function with exterior visual indicator to prevent entries of unauthorized persons
+•	Includes NON-volatile EPROM which even when batteries are changed, allows the conservation of the last 400 openings, with information of user, date and time.
+•	Equipped with real-time clock, which facilitates the management of any of the entries by personnel and guests.
+•	Hidden mechanical cylinder, for auditable emergency openings.
+•	Operates with 4 standard AA batteries with duration of up to 20,000 openings.
+•	Configuration and auditing of the locks with wireless control unit, increasing the security of the electronic lock without cable access.
+•	The Fit-In electronic hotel lock with hidden mechanical cylinder for making registered emergency openings.
+•	They work with 4 standard AA batteries with a duration of up to 20000 openings.
+•	Configuration and auditing of the locks with wireless control unit.
+e)	REFIT Lock
+https://www.omnitecsystems.com/products/electronic-hotel-lock/electronic-lock-refit
+
+Electronic lock for renovations with bluetooth and MiFare proximity
+OMNITEC offers the solution for all those installations that want to renew their old electronic or mechanical locks for a fully flexible, advanced, safe and effective acces control system.
+With the incorporation of a new system of plates and levers, OMNITEC makes it possible to maintain existing mortise locks and enjoy all the functionalities of the SLIM lock.
+The REFIT electronic lock has been designed for renovations, with metal escutcheons sized to hide the holes and marks on the door of previous locks, without the need of cover plates.
+FEATURES
+•	Opening via Bluetooth and MIFARE proximity.
+•	Option to open and manage online by installing Gateways.
+•	Designed for renovations, with sized escutcheons to hide the holes and marks on the door of previous locks.
+•	Adaptable handle, for doors of left or right opening.
+•	Guaranteed operation in adverse climatological environments. Stainless steel AISI 304.
+•	Electromechanical privacy function with exterior visual indicator to prevent entries of unauthorized persons.
+•	Hidden mechanical cylinder, for auditable emergency openings, and micro USB type C connector for power in case of depleted batteries. Both hidden and protected with a rubber cap.
+•	Visual and acoustic indicators to facilitate their use by disabled persons, as well as for additional functionalities such as low battery warnings to personnel, privacy indicator, etc.
+•	Single app for administrator, hotel staff and guests. UpKey allows different functionalities according to the registered user profile.
+•	The guest is automatically logged into the app via a link created by the hotel, which the guest receives in an email.
+f)	EVO Lock
+https://www.omnitecsystems.com/products/electronic-hotel-lock/electronic-lock-hotel-bluetooth-evo
+Electronic Lock with Bluetooth and Proximity opening
+Design technology and innovation converge in EVO to provide an electronic hotel lock of high-performance.
+EVO electronic lock incorporates an innovative access control technology, developed by OMNITEC, which allows hotels to implement an unprecedented level of security and control.
+Its minimalist and customizable design, and the opening and management via APP, make EVO an electronic lock with unprecedented features
+
+Features
+•	System of opening with Smartphone via Bluetooth and MIFARE proximity card.
+•	Option to open and manage online by installing gateways.
+•	Electronics integrated into the door, without antennas or external connectors exposed to undesired tampering.
+•	Guaranteed operation in the most adverse climatological environments. Stainless steel AISI 304 manufactured.
+•	IP 56 Certified.
+•	Visual and acoustic indicators to facilitate their use by disabled persons, as well as for additional functionalities such as low battery warnings to personnel, privacy indicator, etc.
+•	Mortise with silent latch, anti-card device and anti-panic function.
+•	Single mortise lock for doors opening in either direction.
+•	Hidden mechanical cylinder, for auditable emergency openings.
+•	Single app for administrator, hotel staff and guests. UpKey allows different functionalities according to the registered user profile.
+•	The guest is automatically logged into the app via a link created by the hotel which the guest receives in an email.
+•	Customised app option and integration with third parties.
+
+g)	Hotel Lock Management Software
+Ref:  https://www.omnitecsystems.com/products/software
+
+OMNITEC has developed different management systems to meet the needs of all types of accommodation, simplifying the management and control the access credentials of guests and internal and external staff.
+OMNITEC software acts as a backbone in the comprehensive access plan for hotels, tourist accommodation, residences and in the hospitality sector.
+Check-in process simplified:
+	Once the reservation is confirmed, hotels can generate and sends the electronic key or the access code for the guest.
+	Guests receives the key on their smartphone.
+	Skip the check-in process, avoid reception hours and heads directly to hotel room
+	Can open the assigned room with their smartphone.
+	The key automatically expires on the date and time stipulated in the reservation contract.
+
+•	OS Access Software
+Access control software for hotels and hospitality
+OS ACCESS is the most innovative development by OMNITEC that meets the most demanding technical requirements of hotels and can optimise the management of hotel access credentials and security for MiFare proximity, numeric code and Bluetooth devices.
+Designed to work in the Cloud from a web browser, OS ACCESS also offers a desktop version for a local network.
+•	Smartpass Software
+At OMNITEC, we have developed SMARTPASS software to manage electronic proximity locks, access control and energy savers.
+Management with the SMARTPASS software is complemented by the wireless programming controller and MiFare programming cards.
+SMARTPASS was designed to meet the needs and demands of any type of hotel establishment, guaranteeing internal security and control
+•	UPKEY APP
+Access control app for hotels and hospitality
+With UpKey, your smartphone becomes an access key, a programmer for installation and maintenance, and a remote platform for comprehensive access control management.
+The combination of OS Access software, the UpKey app, and gateways gives hotels a multitude of possibilities for managing their access control plans, both on-site and remotely, and allows for immediate response to any situation
+
+3.2 OMNITEC ACCESS CONTROL
+Ref: https://www.omnitecsystems.com/products/access-and-presence-control
+Omnitec presence and access control systems allow you to control the main entrances without surveillance, common zones, swimming pools, spas, garages and any other zone with access restrictions where the electronic lock is not applicable.
+RFID or Code access control, access control for lift, lockers in common zones, presence control or revalidation of permits for in-house personnel are other functions that can be managed with Omnitec devices and software.
+a)	Access Control Digit
+Ref: https://www.omnitecsystems.com/products/access-and-presence-control/access-control-hotel
+Opening vía Bluetooth, Code, Proximity and Online
+Access control with opening by numeric keypad, Bluetooth, proximity card or on-line. Designed to control doors and external access to buildings, garages, etc. and to common areas of hotels and offices.
+Possibility of providing them with online functionalities to increase user security and control.
+Installation of this access control is additional to the electronic lock and unifies the entire access management system for the hotel guest or for the worker
+Features
+•	Two models differentiated by their opening modes:
+o	Proximity card, Bluetooth and on-line, connected via Gateway.
+o	PIN code, proximity card, Bluetooth and on-line, connected via Gateway.
+•	Management with OS ACCESS software and Omnitec apps.
+•	Guest opening via Bluetooth with Omnitec apps.
+•	Bluetooth keys and numeric codes with temporary, cyclical, single-use or permanent validity. li>
+•	Opening, cancellation of credentials and remote opening record with connectivity via Gateway.
+•	Elegant design with sober lines, aluminium case and methacrylate front.
+•	Power: 12V - 3A
+•	1 output relay.
+•	Dimensions: 124 x 78 x 16mm
+b)	Access Control Mini
+Ref: https://www.omnitecsystems.com/products/access-and-presence-control/wall-reader-access-control-mini
+MiFare wall-reader access control for common areas and entrances of hotels and buildings where an electronic lock can’t be installed.
+Its size and design allow it to be integrated into any hotel environment, and control both main doors and areas with restricted access to guests.
+With a sophisticated and discreet design, the MINI access control is the ideal solution for those common areas of the hotel, special or restricted, where the installation of an electronic lock is not possible.
+The MINI access control is managed with the Omnitec software and allows total control over all access points.
+Access control designed for indoor or outdoor use in hotels and buildings, in access to common areas such as Lift, spa, conference room, health club, 
+Features
+•	1 output relay.
+•	Audit trail of the last 400 events registered.
+•	Dimensions: 110 x 42 x 22 mm
+•	Power supply: 12V AC/DC (220V 50Hz power cord supplied).
+•	Temperature: -10 ºC ~ 70ºC.
+•	Humidity: 20% ~ 90% RH
+c)	Wall Reader Anti-Vandalism
+Ref: https://www.omnitecsystems.com/products/access-and-presence-control/wall-reader-anti-vandalism
+The Omnitec wall reader Anti-Vandalism access control is a guarantee of maximum security in access control.
+With the independent reader unit and control unit, undesired entries are prevented, due to the impossibility of tampering with the controller.
+The Omnitec Wall Reader Anti-Vandalic access control has been developed for installation at outdoor access points of hotels and buildings such as garages, pools, children’s zones, etc.
+The outdoor wall readers, with Mifare technology, are installed at the points of access to the controlled zones (e.g. garage door) and the user opens with a Mifare card, the same card used for the room in hotels.
+A control unit manages 2 relays with 2 wall readers by relay simultaneously and has a 12V battery integrated to guarantee the continuity of operation of the system in the event of possible electrical power cuts.
+d)	Lift Access control
+Ref: https://www.omnitecsystems.com/products/access-and-presence-control/lift-access-control
+Increase the security of your hotel, with the lift access control, the guest can only access where you have granted him permissions.
+The Omnitec lift access control has been designed to integrate into the management panels of the lift and increase the security of your hotel.
+With the lift control, the guest can only access where you have granted him permissions.
+With the pertinent credentials on the card, the hotel will be able to limit the general use of the lift or even limit access to specific floors.
+The system operates off-line and makes it possible to increase the security level of the hotel.
+The lift access control manages access to the floors depending on the credentials of the guest’s or employee’s card. It makes it possible to limit access to specific floors or limit the operation of the panel buttons.
+With a modern and minimized design, it is installed with minimal intervention in the lift panel.
+•	Reader dimensions: 60 x 80 x 7,5 mm
+
+3.3 OMNITEC HOTEL SAFES
+Ref: https://www.omnitecsystems.com/products/hotel-safe
+Omnitec Systems presents a range of safes for the hotel and hospitality sector with a wide range of options to adapt to the needs of each installation.
+6 technological levels, 3 opening formats and 6 sizes, plus the different available complements, allow us to offer a wide hotel safe range that responds to the current demand of the simplest installations, up to those of the highest level and requirements.
+a)	Hotel Safe Safeguard M-Plus
+Ref: https://www.omnitecsystems.com/products/hotel-safe/hotel-safe-safeguardmplus
+The Omnitec Safeguard M-Plus hotel safe offers the balance between security, performance and comfort most requested by hotel guests and users.
+The possibilities of managing the hotel safe in rental, showing the audit trail on display or printing audit trails make this a hotel safe that adapts to the most usual needs.
+Hotel safe with high-visibility display and high security electronics.  Easy to operate, with different methods of emergency opening and audit trails to resolve incidents, the hotel safe Safeguard M-Plus represents versatility in hotel security and comfort
+Hotel Safe - Standard Features
+•	Motorized opening and closing
+•	Audit trail on display, and by printer for the last 100 openings and 100 closings
+•	Customer code configurable, of 4 digits
+•	Emergency opening with:
+o	Master code
+o	Mechanical key.
+•	Emergency electronic delayed opening.
+•	Acoustic and visual signals to facilitate the hotel safe operation for persons with visual or hearing disability.
+•	Door with opening spring
+•	Available Sizes: 360 x 270 x 200 mm, 430 x 350 x 200 mm, 400 x 480 x 200 mm.
+b)	Hotel Electronic Safe NOBO
+Ref: https://www.omnitecsystems.com/products/hotel-safe/hotel-safe-nobo
+The NOBO electronic safe is a multipurpose model that offers all the functions demanded by hotels and tourist accommodation.
+NOBO provides the services demanded most in hotels. Its standard version and optional add-ons meet the security and functionality requirements of most hotels
+A hotel safe with a highly visible, white backlit screen and keyboard.
+The NOBO safe offers a balance between convenience and safety; both being highly valued by guests.
+Options for electronic rental, RFID card or iButton opening and auditing, among others, make NOBO a polyvalent safe for guests and owners of hotels and tourist accommodation.
+Hotel Safe - Standard Features
+•	Electronic, motorised opening and closing.
+•	Bolts with anti-lever protection.
+•	Audit, of the last 400 events (opening + closing), with handheld unit.
+•	Guest code from 3 to 6 digits.
+•	Emergency opening via:
+o	Master code.
+o	Mechanical key.
+o	Handheld device.
+•	Low consumption LED interior lighting.
+•	ADA keyboard, acoustic and visual signals to facilitate operation for people with visual or hearing disabilities.
+•	Door with opening spring.
+•	Available Sizes: 360 x 270 x 200 mm, 430 x 350 x 200 mm
+c)	Hotel Safe Protect
+Ref: https://www.omnitecsystems.com/products/hotel-safe/hotel-safe-protect
+Safe for hotel and office. Hotel safe from the Omnitec range of cutting-edge technology. The hotel safe Protect incorporates advanced security and management features for superior category hotels.
+The Omnitec Protect hotel safe allows you to simply and efficiently manage the security level offered to your guests, all electronically, as well as determining its use as free or under rental agreement.
+An electronic hotel safe built of carbon steel, with motorized opening by code and confirmation of code and operation on the LED display. Hotel safe available in different sizes with front, top or front sliding opening.
+Hotel Safe - Standard Features
+•	Motorized opening and closing with configurable code of 4 to 6 digits
+•	Audit trail by software, by control unit or by printer for the last 100 openings and 100 closings
+•	Emergency opening with:
+o	X-Master random code generated by the E-Master software (included), with limited validity of 15 minutes.
+o	Management control with Bi-Code function which increases security. The control feeds the mechanism in case of exhausted batteries.
+o	Master code
+o	Mechanical key
+•	Emergency electronic delayed opening
+•	Braille on keypad, acoustic and visual signals to facilitate operation for persons with visual or hearing disability
+•	 Low consumption LED interior lighting
+•	Door with opening spring
+•	110º wide opening hinge to introduce belongings without risk of damaging them
+•	Available Sizes: 360 x 270 x 200 mm, 430 x 350 x 200 mm, 400 x 480 x 200 mm.
+
+d)	Hotel Safe Supra
+Ref: https://www.omnitecsystems.com/products/hotel-safe/hotel-safe-supra
+The Omnitec hotel safe Supra is the appropriate model for hotels and companies that seek a high range hotel safe, fully configurable and simply managed on display or with auxiliary control unit.
+Supra hotel safe facilitates management of the in-room hotel safe, offering high performance to satisfy demanding hotel guests
+Modern and elegant, the Supra hotel safe stands out for its rubber backlit keypad in blue to facilitate its operation, whatever the room lighting may be. Comfortable and secure for the guest and operable for the hotel, this hotel safe combines everything necessary for very demanding hotels.
+Hotel Safe - Standard Features
+•	Backlit rubber keypad and LED display in blue see color.
+•	Motorized opening and closing.
+•	Audit trail on display, by printer or with control unit for the last 100 openings and 100 closings.
+•	Emergency opening with:
+o	Control unit with Bi-Code function which increases security. The control powers the hotel safe in the event that the batteries are exhausted.
+o	Master code
+o	Mechanical key
+•	Acoustic and visual signals to facilitate operation for persons with visual or hearing disabilities.
+•	Low consumption LED interior lighting
+•	Door with opening spring
+•	Available Sizes: 360 x 270 x 200 mm, 430 x 350 x 200 mm, 400 x 480 x 200 mm
+
+
+4.	ELELOCK LUXUARY RETAIL FURNITURE LOCKS
+
+IV RFID – Proud Distributor and Partner of ELELOCK UK
+As a trusted distributor and partner of ELELOCK in UAE as well as GCC, IV RFID brings advanced security solutions to the forefront the industries like luxury retail, branded outlets, jewellery showcases or display case……
+ELELOCK from UK, Leaders in Electronic Display Case locking systems, Jewelry Showcase security solutions, high-End retail furniture locking, smart locking for joineries, and luxury boutique security.
+Trusted by leading names in retail and high-security environments, Elelock combines cutting-edge technology with eco-conscious innovation to deliver the ultimate in protection.
+The ELELOCK PRO range is a ground breaking line of advanced cabinet security solutions designed to redefine safety, sustainability and efficiency to deliver the ultimate in protection.
+
+Key Features and Benefits
+ELELOCK systems offers several advantages over battery powered digital locker locks and mechanical locking methods
+•	Instead of physical keys, access is granted via electronic credentials like RFID cards/fobs making key management simpler and more secure
+•	ELELOCK locks include features like door open and forced-entry alarms.
+•	ELELOCK readers and locks can be installed in furniture cabinets offers significant advantages in both security enhancement and aesthetic preservation
+•	Mains-powered solutions, powered by direct 230 AC to 12V DC power supply.
+
+ELELOCK systems are widely used in global luxury Retail brands like Dior, Tag-Huer,  RADO,RICHEMOUNT,….and preferred by leading jewellery groups and joineries in UAE and GCC.
+
+Ref: https://elelock.com/pro/
+(* for ELELOCK, pictures you can download from the link attached)
+
+4.1	ELELOCK Readers
+a)	All-in-One reader cum controller
+Ref: https://elelock.com/pro/all-in-one-controller/
+Pictures and description same as of above link
+b)	Multi-Door reader cum controller
+https://elelock.com/pro/multi-door-controller/
+Pictures and description same as of above link
+
+c)	Nano reader cum controller
+https://elelock.com/pro/nano-controller/
+4.2	ELELOCK Locks
+a)	ELELOCK EL56 Lock
+b)	ELELOCK EL58 Lock
+c)	ELELOCK EL57 Lock
+d)	ELELOCK EL20 Lock
+e)	ELELOCK R4MINI Lock 
+WE WILL SEND YOU THE description & DATASHEETS FOR THE DETAILS
+4.3	ELELOCK Accessories
+a)	ELELOCK Key cards & Fobs
+b)	ELELOCK Power supply
+c)	ELELOCK Splitters
+WE WILL SEND YOU THE description and DATASHEETS FOR THE DETAILS.
+
+
+
+
+5.	Digital Locker Locks
+Battery-operated locker locks are smart electronic locks powered by replaceable batteries, designed for lockers in gyms, offices, schools, and leisure facilities. They offer keyless access (PIN, RFID, Bluetooth, or mobile app), are easy to retrofit.
+Our advanced cabinet locking solution offers top-tier security with encrypted data protection, ensuring only authorized access.
+With durable construction and smart technology integration, our cabinet locks safeguard your valuables against unauthorized access, making them ideal for homes, offices, hospitals, and retail environments. Experience peace of mind with a reliable, tamper-proof locking mechanism that blends security and ease of use effortlessly.
+             No wiring required → perfect for retrofitting existing lockers.
+Low maintenance → batteries last years, and replacement is simple.
+Enhanced security → eliminates lost keys and jammed mechanical locks.
+User convenience → supports multiple access methods.
+
+a)	EPIC ES-L200C
+Ref: https://www.epic.co.kr/home/blog/project/es-l200c/
+The ES-L200C is a smart, battery-operated locker lock offering PIN code and RFID card access, featuring auto/manual locking, anti-hacking alarms, low battery alerts, and emergency power options, ideal for cabinets, gym lockers, and office furniture, balancing robust digital security with simple, intuitive operation for public or private use. 
+Key Features:
+•	Access Methods: PIN (4-10 digits) & RFID card.
+•	Security: Auto-lock/re-lock, anti-hacking/intrusion alarms, low battery alerts, deadbolt error alerts.
+•	Modes: Supports private (user-specific) and public (temporary pin) modes, plus master PIN/card for management.
+•	Power: Operates on 3 AA batteries (approx. 1 year life), with emergency USB power port.
+•	Usability: Adjustable volume, mute setting, multi-touch keypad to erase fingerprints.
+	TRUGen, TG-C16
+https://www.iv-rfid.com/products/Digital_Locker_Locks/TG_C16
+	TRUGen, TG-C81
+https://www.iv-rfid.com/products/Digital_Locker_Locks/TG_C81
+6.	TRUGEN ACCESS CONTROL
+TRUGen UK specialized in providing cutting-edge access control systems and comprehensive access management software that simplifies and secures environments. From small businesses to large enterprises, our tailored solutions fit diverse security needs.
+b)	TG-ASD1/ ASD2 Door controllers
+
+Ref: https://trugen.co.uk/tg-asd1-tg-asd2-1-door-2-door-access-controller/
+Picture and description same as of above link
+c)	TG-ASD20 Lift Controllers
+Ref: https://trugen.co.uk/tg-asd20-elevator-access-controller/
+Picture and description same as of above link
+d)	TG-R15 Card reader
+Ref: https://trugen.co.uk/tg-r15-proximity-card-reader/
+Picture and description same as of above link
+e)	TG-R20 Card reader
+Ref: https://trugen.co.uk/tg-r20-mifare-card-reader/
+Picture and description same as of above link
+f)	TG-R20K Card reader
+Ref: https://trugen.co.uk/tg-r2ok-with-optional-keypad/
+Picture and description same as of above link
+g)	TG-AMS Access management software
+Ref: https://trugen.co.uk/tg-slan-access-control-software/
+Picture and description same as of above link
+
+
+7. CHUBBSAFES
+Chubb safes is one of the oldest safes brand in the world. Trusted the world over, the Chubb safes solutions have been providing protection around the globe for people, cash and valuables for almost 200 years.
+The Chubb safes’ customer base is diverse ranging from householders, small commercial shops, large retail environments, jewelries to the largest financial institutions and high-risk sites.
+As an authorized Chubb safes stockist and safe box supplier in the UAE and the Middle East, we have a large choice and competitive prices. Chubb safes come in a variety of sizes, weights, and grades to meet your security needs.
+Protect irreplaceable documents, jewellery, expensive and dangerous equipment with fireproof Chubb safes. Our range of fireproof and fire-resistant safes not only protect your valuables from theft, but also from accidental damage.
+For the insurance industry, certification is a reliable and objective basis for risk calculation. For you, it offers greater peace of mind in your investment decisions. Against burglary, fire or any other threat, you need the right protection for the identified risks.
+‘Contact us for free consultation to choose the right safe’
+7.1	Graded Safes
+Keep your most important documents and valuables impervious to theft and destruction: Chubbsafes’ certified safes are tested to meet the most stringent standards in security.
+For both home and office buildings, discover our range of graded safes. The safes features high-strength lock mechanisms that perform reliably time after time, guaranteeing you a high level of protection.
+Ref: https://axon.ae/graded-safes/
+
+(* Pictures you can take from the link attached)
+Models:
+•	TRIFORCE T2
+TRIPLE-CERTIFIED PROTECTION, OFFERING MAXIMUM SECURITY FOR VALUABLES THAT MATTER
+A high-graded safe, certified by ECB•S for burglary resistance in Grades IV-VI T2. It also offers a certified 60-minute fire resistance for paper documents, plus resistance against explosives
+a)	DUOFORCE
+COMBINED PROTECTION AGAINST BURGLARY AND FIRE, MANUFACTURED IN THE NETHERLANDS
+A robust safe for high-end residential or commercial use, the Chubbsafes DuoForce is certified by ECB-S as Grade III for both burglary protection and 60 minutes fire protection of paper documents. Produced in our production site in Doetinchem, this sturdy safe is built according to most stringent quality, health & safety and environmental manufacturing standards.
+b)	DUOGUARD T2
+COMBINED PROTECTION AGAINST BURGLARY (GRADES I AND II) AND FIRE (60 AND 90 MIN.)
+A robust but lightweight safe to keep your theft-prone valuables and documents secure in your office or retail environment. The Chubbsafes DuoGuard T2 is certified by ECB•S in accordance with the stringent European standard, EN 1143-1 T2 in Grade I and II for burglary protection and for fire protection of paper documents.
+c)	SENATOR
+A COMPACT SAFE TO STORE CASH AND MOST VALUABLE PERSONAL ITEMS IN YOUR HOME OR OFFICE
+The Chubbsafes Senator provides a dual, certified protection in one safe: Burglary Grade I (ECB•S EN 1143-1) and 30 minutes Fire Protection (ECB•S EN 15659).
+
+7.2) FIREPROOF SAFES
+Ensure your vital paper documents, valuables and data media remain unscathed, even when subjected to high temperatures: Chubbsafes’ fire safes are your best defence against the ravages of fire.
+
+With Chubbsafes’ products you can rest easy knowing your valuables are protected against a variety of threats, whether it is theft, fire or even explosives, regardless of the security grade.
+
+REF: HTTPS://AXON.AE/FIREPROOF-SAFES/
+Models:
+a)	DATAPLUS
+PROTECT YOUR SENSITIVE DATA MEDIA AGAINST BURGLARY AND FIRE UP TO THE HIGHEST STANDARDS WHILE ALSO USING A GENEROUS STORAGE CAPACITY.
+The Chubbsafes DataPlus is a range of certified safes providing combined burglary and fire protection up to 120 minutes
+b)	DPC
+HIGH CAPACITY STORAGE SOLUTION WITH FIRE PROTECTION, IDEAL FOR OFFICE ENVIRONMENTS SUCH AS BANKS AND FINANCIAL INSTITUTIONS.
+The Chubbsafes DPC (Document Protection Cabinets) are certified by Underwriter’s Laboratories according to UL 72, Class 350 for up to 120 minutes fire protection.
+7.3)	Home Safes
+Chubbsafes’ home safes offer you basic or high burglary protection, or even combined protection against theft and fire. At each security grade, you can choose from a variety of sizes to meet your space and capacity requirements. All our home safes are tested for durability, and offer extreme resistance requirements against burglary as well as fire, firearms or/and explosives. You can choose basic or high burglary resistance, according to your needs and budget. However, all our products are tested to meet only the most stringent accreditation standards.
+Ref: https://axon.ae/home-safes/
+Models:
+a)	EVERYDAYSAFE®
+
+THE EASILY ACCESSIBLE, CONCEALED SAFE FOR YOUR EVERYDAY VALUABLES.
+A compact safe that discreetly integrates into your kitchen, bedroom or office furniture units.
+b)	RHINO MK II
+SAFEGUARD YOUR VALUABLES AND IMPORTANT DOCUMENTS FROM THE THREATS OF BURGLARY AND FIRE IN YOUR HOME OR OFFICE.
+The Chubbsafes Rhino Mk II offers a combined certified protection against burglary and fire in one safe: certified EN 14450, Class S2 for burglary and EN 15659 LFS for fire protection (up to 1 hour).
+c)	ALPHAPLUS
+A COST-EFFICIENT SAFE FOR THE HOME AND SMALL OFFICE.
+The Chubbsafes AlphaPlus is equipped with a double-steel-wall construction for an extra layer of protection against burglary. This versatile safe offers a sturdy construction and is easy to install.

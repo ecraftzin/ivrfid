@@ -1,0 +1,367 @@
+/* homeabout */
+
+.rfid-about-section {
+    position: relative;
+    overflow: hidden;
+    background: linear-gradient(135deg, #ffffff 0%, #f8fafc 100%);
+}
+
+.rfid-about-background {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.rfid-wave {
+    position: absolute;
+    border-radius: 50%;
+    border: 2px solid rgba(82, 39, 255, 0.1);
+}
+
+.rfid-wave:nth-child(1) {
+    width: 300px;
+    height: 300px;
+    top: 10%;
+    left: 5%;
+}
+
+.rfid-wave:nth-child(2) {
+    width: 200px;
+    height: 200px;
+    bottom: 20%;
+    right: 10%;
+}
+
+.rfid-wave:nth-child(3) {
+    width: 150px;
+    height: 150px;
+    top: 60%;
+    left: 15%;
+}
+
+.floating-elements-container {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    pointer-events: none;
+    z-index: 1;
+}
+
+.floating-rfid-tag {
+    position: absolute;
+    width: 40px;
+    height: 40px;
+    background: linear-gradient(135deg, rgba(82, 39, 255, 0.1), rgba(139, 92, 246, 0.1));
+    border: 1px solid rgba(82, 39, 255, 0.2);
+    border-radius: 8px;
+}
+
+.floating-rfid-tag::before {
+    content: '';
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    width: 20px;
+    height: 20px;
+    background: linear-gradient(45deg, #5227FF, #8B5CF6);
+    border-radius: 4px;
+    opacity: 0.7;
+}
+
+.tag-1 { top: 20%; left: 15%; }
+.tag-2 { top: 40%; left: 85%; }
+.tag-3 { top: 70%; left: 10%; }
+.tag-4 { top: 30%; left: 90%; }
+.tag-5 { top: 80%; left: 80%; }
+
+/* Image Styles */
+.rfid-image-wrapper {
+    position: relative;
+    padding: 20px;
+}
+
+.image-container {
+    position: relative;
+    border-radius: 20px;
+    overflow: hidden;
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.1);
+}
+
+.image-container img {
+    width: 100%;
+    height: auto;
+    border-radius: 20px;
+    transform: translateZ(0);
+    backface-visibility: hidden;
+}
+
+.image-glow {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(45deg, transparent, rgba(82, 39, 255, 0.1), transparent);
+    border-radius: 20px;
+    animation: glowPulse 3s ease-in-out infinite;
+}
+
+@keyframes glowPulse {
+    0%, 100% { opacity: 0.3; }
+    50% { opacity: 0.6; }
+}
+
+/* Experience Badge */
+.experience-badge {
+    position: absolute;
+    top: 30px;
+    right: 30px;
+    background: linear-gradient(135deg, #5227FF, #8B5CF6);
+    color: white;
+    padding: 20px;
+    border-radius: 15px;
+    text-align: center;
+    min-width: 120px;
+    box-shadow: 0 10px 30px rgba(82, 39, 255, 0.3);
+    z-index: 2;
+}
+
+.experience-number {
+    font-size: 2.5rem;
+    font-weight: 700;
+    line-height: 1;
+}
+
+.experience-number .plus {
+    font-size: 1.5rem;
+    margin-left: 2px;
+}
+
+.experience-text {
+    font-size: 0.85rem;
+    opacity: 0.9;
+    margin-top: 5px;
+    letter-spacing: 1px;
+}
+
+/* Content Styles */
+.section-label {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    margin-bottom: 20px;
+}
+
+.label-text {
+    font-size: 0.9rem;
+    font-weight: 600;
+    color: #5227FF;
+    letter-spacing: 2px;
+    text-transform: uppercase;
+}
+
+.label-line {
+    flex: 1;
+    height: 2px;
+    background: linear-gradient(90deg, #5227FF, transparent);
+}
+
+.heading_text {
+    font-size: 2.5rem;
+    font-weight: 700;
+    color: #1f2937;
+    margin-bottom: 20px;
+    line-height: 1.2;
+}
+
+.heading_text .rfid-text {
+    background: linear-gradient(90deg, #5227FF, #8B5CF6);
+    -webkit-background-clip: text;
+    background-clip: text;
+    color: transparent;
+    position: relative;
+}
+
+.heading_description {
+    color: #6b7280;
+    line-height: 1.7;
+    margin-bottom: 15px;
+}
+
+/* Stats Section */
+.rfid-stats-section {
+    margin: 30px 0;
+}
+
+.stat-item {
+    background: white;
+    padding: 20px 15px;
+    border-radius: 12px;
+    text-align: center;
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.05);
+    border: 1px solid rgba(229, 231, 235, 0.8);
+    transition: all 0.3s ease;
+}
+
+.stat-item:hover {
+    border-color: #5227FF;
+}
+
+.stat-number {
+    font-size: 1.8rem;
+    font-weight: 700;
+    color: #5227FF;
+    margin-bottom: 5px;
+}
+
+.stat-label {
+    font-size: 0.85rem;
+    color: #6b7280;
+    font-weight: 500;
+}
+
+/* Certification Badges */
+.certifications-section {
+    display: flex;
+    gap: 20px;
+    flex-wrap: wrap;
+}
+
+.certification-badge {
+    display: flex;
+    align-items: center;
+    gap: 15px;
+    background: rgba(82, 39, 255, 0.05);
+    padding: 15px;
+    border-radius: 12px;
+    border: 1px solid rgba(82, 39, 255, 0.1);
+}
+
+.cert-icon {
+    font-size: 2rem;
+}
+
+.cert-content {
+    flex: 1;
+}
+
+.cert-title {
+    font-weight: 600;
+    color: #1f2937;
+    margin-bottom: 2px;
+}
+
+.cert-desc {
+    font-size: 0.85rem;
+    color: #6b7280;
+}
+
+/* Button Styles */
+.about-cta {
+    display: inline-block;
+}
+
+.btn-rfid-about {
+    display: inline-flex;
+    align-items: center;
+    gap: 10px;
+    background: linear-gradient(90deg, #5227FF, #8B5CF6);
+    color: white;
+    border: none;
+    padding: 14px 30px;
+    border-radius: 50px;
+    font-weight: 600;
+    font-size: 1rem;
+    text-decoration: none;
+    transition: all 0.3s ease;
+    box-shadow: 0 10px 20px rgba(82, 39, 255, 0.2);
+    position: relative;
+    overflow: hidden;
+}
+
+.btn-rfid-about:hover {
+    transform: translateY(-3px);
+    box-shadow: 0 15px 30px rgba(82, 39, 255, 0.3);
+}
+
+.btn-rfid-about::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.5s;
+}
+
+.btn-rfid-about:hover::before {
+    left: 100%;
+}
+
+.btn-icon {
+    animation: bounceRight 2s infinite;
+}
+
+@keyframes bounceRight {
+    0%, 100% { transform: translateX(0); }
+    50% { transform: translateX(5px); }
+}
+
+/* Responsive Design */
+@media (max-width: 992px) {
+    .heading_text {
+        font-size: 2rem;
+    }
+    
+    .experience-badge {
+        top: 20px;
+        right: 20px;
+        padding: 15px;
+        min-width: 100px;
+    }
+    
+    .experience-number {
+        font-size: 2rem;
+    }
+    
+    .stat-number {
+        font-size: 1.5rem;
+    }
+}
+
+@media (max-width: 768px) {
+    .rfid-image-wrapper {
+        margin-bottom: 40px;
+    }
+    
+    .experience-badge {
+        top: -20px;
+        right: 20px;
+    }
+    
+    .heading_text {
+        font-size: 1.8rem;
+    }
+    
+    .certification-badge {
+        width: 100%;
+    }
+}
+
+/* Counter Animation for Stats */
+@keyframes countUp {
+    from { opacity: 0; transform: translateY(20px); }
+    to { opacity: 1; transform: translateY(0); }
+}
+
+.stat-number {
+    animation: countUp 0.5s ease-out;
+}
