@@ -89,10 +89,12 @@ export const getSolutionCategoryBySlug = async (slug) => {
   }
 };
 
-export default {
+const categoriesService = {
   getProductCategories,
   getSolutionCategories,
   getProductCategoryBySlug,
   getSolutionCategoryBySlug,
 };
+
+export default categoriesService;
 

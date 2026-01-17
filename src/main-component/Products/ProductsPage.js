@@ -27,13 +27,11 @@ const ProductsPage = () => {
   const [categories, setCategories] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [categoryCounts, setCategoryCounts] = useState({});
   const [searchTerm, setSearchTerm] = useState('');
 
   // Single color scheme for all cards
   const primaryColor = '#5227FF';
   const secondaryColor = '#401EFF';
-  const accentColor = '#8B5CF6';
   const textColor = '#1e293b';
   const lightBg = '#f8fafc';
   const borderColor = '#e2e8f0';
@@ -74,11 +72,9 @@ const ProductsPage = () => {
 
         if (dbCategories && dbCategories.length > 0) {
           setCategories(dbCategories);
-          setCategoryCounts(counts);
         } else {
           const uniqueCategories = [...new Set(products.map(p => p.category || 'Other'))];
           setCategories(uniqueCategories);
-          setCategoryCounts(counts);
         }
         
         setError(null);
@@ -243,9 +239,6 @@ const ProductsPage = () => {
                   const categorySlug = typeof category === 'string' 
                     ? category.toLowerCase().replace(/\s+/g, '-') 
                     : category.slug;
-                  const categoryDescription = typeof category === 'string'
-                    ? `Explore our ${category.toLowerCase()} collection`
-                    : category.description || `Browse ${categoryName.toLowerCase()} products`;
                   const categoryImage = typeof category === 'object' ? category.image_url : null;
                   const categoryIcon = getCategoryIcon(categoryName);
                   

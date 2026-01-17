@@ -30,13 +30,11 @@ const SolutionCategories = () => {
   const [categories, setCategories] = useState([]);
   const [loading, setLoading] = useState(true);
   const [error, setError] = useState(null);
-  const [categoryCounts, setCategoryCounts] = useState({});
   const [searchTerm, setSearchTerm] = useState('');
 
   // Single color scheme for all cards
   const primaryColor = '#5227FF';
   const secondaryColor = '#401EFF';
-  const accentColor = '#8B5CF6';
   const textColor = '#1e293b';
   const lightBg = '#f8fafc';
   const borderColor = '#e2e8f0';
@@ -91,11 +89,9 @@ const SolutionCategories = () => {
 
         if (dbCategories && dbCategories.length > 0) {
           setCategories(dbCategories);
-          setCategoryCounts(counts);
         } else {
           const uniqueCategories = [...new Set(solutions.map(s => s.category || 'Other'))];
           setCategories(uniqueCategories);
-          setCategoryCounts(counts);
         }
         
         setError(null);
@@ -286,9 +282,6 @@ const SolutionCategories = () => {
                   const categorySlug = typeof category === 'string' 
                     ? category.toLowerCase().replace(/\s+/g, '-') 
                     : category.slug;
-                  const categoryDescription = typeof category === 'string'
-                    ? getCategoryDescription(categoryName)
-                    : category.description || getCategoryDescription(categoryName);
                   const categoryImage = typeof category === 'object' ? category.image_url : null;
                   const categoryIcon = getCategoryIcon(categoryName);
                   const categoryLink = typeof category === 'object' ? category.link : null;

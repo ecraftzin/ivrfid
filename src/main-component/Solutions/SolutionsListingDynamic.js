@@ -12,8 +12,8 @@ import { getSolutionCategories, getSolutionCategoryBySlug } from '../../services
 import FloatingContact from '../FloatingContact/FloatingContact';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
 import {
-  faTimes, faCheckCircle, faEnvelope, faPhone,
-  faChevronRight, faDownload
+  faTimes, faCheckCircle,
+  faChevronRight
 } from '@fortawesome/free-solid-svg-icons';
 
 const SolutionsListingDynamic = () => {
