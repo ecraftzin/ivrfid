@@ -49,6 +49,7 @@
     "yet-another-react-lightbox": "^3.12.3"
   },
   "scripts": {
+    "prebuild": "npx update-browserslist-db@latest",
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
